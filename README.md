@@ -1,4 +1,4 @@
-![screenshot](https://github.com/eduardgamiao/PlayResponsiveKamanu/raw/master/doc/playrespinsivekamanu_example.png)
+![screenshot](https://github.com/eduardgamiao/PlayResponsiveKamanu/blob/master/doc/prk_example.png)
 
 Overview
 
